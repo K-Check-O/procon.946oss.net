@@ -34,7 +34,8 @@ const About = () => {
           {
             <p>
               <Button
-                href="https://forms.gle/GU9xGq7Jr9YRXpqG6"
+                <!-- 下記のリンクは今年度用のFormsに置き換える予定 -->
+                href="https://procon.946oss.net"
                 as={Link}
                 sx={{ py: 16, px: 48, fontSize: 3 }}
               >
@@ -42,6 +43,7 @@ const About = () => {
               </Button>
             </p>
           }
+          <!--
           {
             <p>
               <Button
@@ -52,7 +54,8 @@ const About = () => {
                 オンライン観戦 (YouTube Live)
               </Button>
             </p>
-          }
+          } 
+          -->
         </Box>
         <Box>
           <GatsbyImage
