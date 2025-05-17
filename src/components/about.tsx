@@ -34,8 +34,7 @@ const About = () => {
           {
             <p>
               <Button
-                <!-- 下記のリンクは今年度用のFormsに置き換える予定 -->
-                href="https://procon.946oss.net"
+                href="https://forms.gle/8angdrer2yDLdmEc8"
                 as={Link}
                 sx={{ py: 16, px: 48, fontSize: 3 }}
               >
